@@ -1,6 +1,6 @@
 # Frontend Mentor - Room homepage
 
-![Design preview for the Room homepage coding challenge](./src/assets/shared/desktop-preview.jpg)
+![Design preview for the Room homepage coding challenge](./assets/img/desktop-preview.jpg)
 
 ## Table of contents
 
@@ -11,7 +11,7 @@
 
 ### Intro
 
-Hello! This is my solution to [Loopstudios landing page - Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw) challenge. That was a simple and fun challenge.
+Hello! This is my solution to [Room Homepage - Frontend Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq) challenge. That was a simple and fun challenge.
 
 ### The challenge
 
@@ -28,7 +28,7 @@ Hello! This is my solution to [Loopstudios landing page - Frontend Mentor](https
 
 ### Links
 
-[LIVE PREVIEW](https://vr-loopstudios-landing-page.netlify.app/)
+[LIVE PREVIEW](https://vr-room-homepage.netlify.app/)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
